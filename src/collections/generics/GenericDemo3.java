@@ -39,14 +39,14 @@ public class GenericDemo3 {
     public static void processUpperBounded(List<? extends Employee> employees) {
     //    employees.add(new Employee());//compilation error
         employees.add(null);
-        Employee employee = employees.getFirst();
+        Employee employee = employees.get(0);
     }
 
     public static void processLowerBounded(List<? super Employee> employees) {
      //   employees.add(new Person()); //compilation error
         employees.add(new Employee());
         employees.add(new Manager());
-        Object employee = employees.getFirst();
+        Object employee = employees.get(0);
         if (employee instanceof Employee) {
             Employee myEmployee = (Employee) employee;
         }
