@@ -11,8 +11,11 @@ public class ReadingFromFileInputStream {
         try {
             //открываем файл abc.dat при помощи потока ввода FileInputSream
             myFile = new FileInputStream("abc.dat");
+
+            //делаем флаг eof и присваиваем ему значение false, что бы знать когда прекратить читать (когда нарвёмся на конец файла)
             boolean eof = false;
 
+            //пока end of file НЕ TRUE, то делаем цикл  (while not end of file)
             while (!eof) {
                 int byteValue = myFile.read();
                 System.out.println(byteValue + " ");
