@@ -1,6 +1,6 @@
 package inheritance;
 
-public abstract class Figure2 {
+public abstract class  Figure2 {
     double dimension1;
     double dimension2;
 

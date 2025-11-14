@@ -1,5 +1,7 @@
 package oop;
 
+import java.util.Objects;
+
 public class Person {
     private String fullName;
     private int age;
@@ -47,34 +49,5 @@ public class Person {
                 + '}';
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) {
-            return true;
-        }
-        if (o == null || getClass() != o.getClass()) {
-            return false;
-        }
 
-        Person person = (Person) o;
-
-        if (getAge() != person.getAge()) {
-            return false;
-        }
-        if (isRetired() != person.isRetired()) {
-            return false;
-        }
-        return getFullName() != null
-                ? getFullName().equals(person.getFullName())
-                : person.getFullName() == null;
-
-    }
-
-    @Override
-    public int hashCode() {
-        int result = getFullName() != null ? getFullName().hashCode() : 0;
-        result = 31 * result + getAge();
-        result = 31 * result + (isRetired() ? 1 : 0);
-        return result;
-    }
 }
