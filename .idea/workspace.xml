@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a76c7869-174b-4007-842c-787c32256b1f" name="Changes" comment="пример буфера" />
+    <list default="true" id="50fd0956-4686-496e-a26c-ecb0c99fe1fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/CreatesTxtFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/ReadingCharacterStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_IO_Streams/ChainingIOStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_IO_Streams/ChainingIOStreams.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +27,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,80 +34,57 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/milkina/java-core.git&quot;,
-    &quot;accountId&quot;: &quot;0fd32138-8fcd-4db7-95fd-faa02e0c0f49&quot;
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;donz99&quot;
   }
 }</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-24.0.1/lib/src.zip!/java.base/java/io/IOException.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-24.0.1/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-24.0.1/lib/src.zip!/java.base/java/util/Calendar.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-24.0.1/lib/src.zip!/java.base/java/util/function/Function.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-24.0.1/lib/src.zip!/java.xml.crypto/javax/xml/crypto/Data.java" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/donz99/java-core&quot;,
+    &quot;accountId&quot;: &quot;7107c60a-c3cd-41bb-87a0-04405fbc08f3&quot;
+  }
 }</component>
-  <component name="ProjectId" id="2yww3P7BhU2ia8nDq0BVli99MGt" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35TimxslslKCkGsUUcb6gA5WtrW" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayCastingDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayCopy2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayCopy3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aspirant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoxDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CallingConstructors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassCalendar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassDate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Date.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dats.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ffs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindAndNeutralize.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindUniqueWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hunters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PhoneDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.homework.lesson711.CallingConstructors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.homework.lesson711.PhoneDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test28102025.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreatesTxtFile.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test3.executor": "Run",
+    "Application.test4.executor": "Run",
+    "Application.test5.executor": "Run",
+    "Application.test6.executor": "Run",
+    "Application.test7.executor": "Run",
+    "Application.test8.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.test28102025">
-    <configuration name="ClassCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson_05_09_2025.ClassCalendar" />
+}]]></component>
+  <component name="RunManager" selected="Application.test8">
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO_Streams.test4" />
       <module name="courses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.lesson_05_09_2025.*" />
+          <option name="PATTERN" value="Java_IO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson_05_09_2025.Solution" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO_Streams.test5" />
       <module name="courses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.lesson_05_09_2025.*" />
+          <option name="PATTERN" value="Java_IO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2025_09_30.one.main" />
+    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO_Streams.test6" />
       <module name="courses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2025_09_30.one.*" />
+          <option name="PATTERN" value="Java_IO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson_05_09_2025.test" />
+    <configuration name="test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO_Streams.test7" />
       <module name="courses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.lesson_05_09_2025.*" />
+          <option name="PATTERN" value="Java_IO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,126 +131,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test28102025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test28102025" />
+    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO_Streams.test8" />
       <module name="courses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_IO_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test28102025" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.ClassCalendar" />
+        <item itemvalue="Application.test8" />
+        <item itemvalue="Application.test6" />
+        <item itemvalue="Application.test7" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a76c7869-174b-4007-842c-787c32256b1f" name="Changes" comment="" />
-      <created>1750758743465</created>
+      <changelist id="50fd0956-4686-496e-a26c-ecb0c99fe1fe" name="Changes" comment="" />
+      <created>1763140625125</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750758743465</updated>
+      <updated>1763140625125</updated>
     </task>
-    <task id="LOCAL-00001" summary="24.06 18:00">
-      <option name="closed" value="true" />
-      <created>1750777178732</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1750777178732</updated>
-    </task>
-    <task id="LOCAL-00002" summary="matcher pattern подготовка к заданию 18:00">
-      <option name="closed" value="true" />
-      <created>1761664002099</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1761664002099</updated>
-    </task>
-    <task id="LOCAL-00003" summary="изучение IO потоков, первый пример FileInputSream">
-      <option name="closed" value="true" />
-      <created>1763116172965</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1763116172965</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add comment">
-      <option name="closed" value="true" />
-      <created>1763116468778</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1763116468778</updated>
-    </task>
-    <task id="LOCAL-00005" summary="добавил пример потока вывода">
-      <option name="closed" value="true" />
-      <created>1763117654103</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1763117654103</updated>
-    </task>
-    <task id="LOCAL-00006" summary="пример буфера">
-      <option name="closed" value="true" />
-      <created>1763117991753</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1763117991754</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="24.06 18:00" />
-    <MESSAGE value="matcher pattern подготовка к заданию 18:00" />
-    <MESSAGE value="изучение IO потоков, первый пример FileInputSream" />
-    <MESSAGE value="add comment" />
-    <MESSAGE value="добавил пример потока вывода" />
-    <MESSAGE value="пример буфера" />
-    <option name="LAST_COMMIT_MESSAGE" value="пример буфера" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/lesson28072025/Recursion.java</url>
-          <line>14</line>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java_IO_Streams/test8.java</url>
+          <line>8</line>
+          <properties class="Java_IO_Streams.test8" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/lesson28072025/Recursion.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
