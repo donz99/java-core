@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50fd0956-4686-496e-a26c-ecb0c99fe1fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_IO_Streams/test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patern/decorator/DecoratorTutorial.java" afterDir="false" />
+    <list default="true" id="50fd0956-4686-496e-a26c-ecb0c99fe1fe" name="Changes" comment="add DecoratorTutorial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patern/decorator/DecoratorTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patern/decorator/DecoratorTutorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,35 +46,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CreatesTxtFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test8.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.test9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreatesTxtFile.executor": "Run",
+    "Application.Shop.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test3.executor": "Run",
+    "Application.test4.executor": "Run",
+    "Application.test5.executor": "Run",
+    "Application.test6.executor": "Run",
+    "Application.test7.executor": "Run",
+    "Application.test8.executor": "Debug",
+    "Application.test9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.test9">
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO_Streams.test5" />
+}]]></component>
+  <component name="RunManager" selected="Application.Shop">
+    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patern.decorator.Shop" />
       <module name="courses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_IO_Streams.*" />
+          <option name="PATTERN" value="patern.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shop" />
         <item itemvalue="Application.test9" />
         <item itemvalue="Application.test8" />
         <item itemvalue="Application.test6" />
         <item itemvalue="Application.test7" />
-        <item itemvalue="Application.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,20 @@
       <option name="presentableId" value="Default" />
       <updated>1763140625125</updated>
     </task>
+    <task id="LOCAL-00001" summary="add DecoratorTutorial">
+      <option name="closed" value="true" />
+      <created>1763461831589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763461831589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add DecoratorTutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DecoratorTutorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
