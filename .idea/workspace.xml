@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50fd0956-4686-496e-a26c-ecb0c99fe1fe" name="Changes" comment="создал программу для создания txt файла заданного размера">
+    <list default="true" id="50fd0956-4686-496e-a26c-ecb0c99fe1fe" name="Changes" comment="создал программу для создания txt файла заданного размера111">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,12 +162,29 @@
       <option name="project" value="LOCAL" />
       <updated>1763307253606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="создал программу для создания txt файла заданного размера111">
+      <option name="closed" value="true" />
+      <created>1763400691170</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763400691170</updated>
+    </task>
+    <task id="LOCAL-00003" summary="создал программу для создания txt файла заданного размера111">
+      <option name="closed" value="true" />
+      <created>1763400713378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763400713378</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="создал программу для создания txt файла заданного размера" />
-    <option name="LAST_COMMIT_MESSAGE" value="создал программу для создания txt файла заданного размера" />
+    <MESSAGE value="создал программу для создания txt файла заданного размера111" />
+    <option name="LAST_COMMIT_MESSAGE" value="создал программу для создания txt файла заданного размера111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
